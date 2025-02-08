@@ -1,0 +1,12 @@
+{
+  "users": {
+    "1": {
+      "id": "79e45724-f04c-486e-bbf3-f746959b42b5",
+      "name": "Eduardo",
+      "email": "eduicerikamei@gmail.com",
+      "password": "aqw123123",
+      "fl_active": true,
+      "created_at": "2025-02-08T22:31:24.495104+00:00"
+    }
+  }
+}
